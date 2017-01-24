@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "jane/runtime": "^1.0",
+        "jane/runtime": "dev-master",
         "php-http/httplug": "^1.0",
         "php-http/message-factory": "^1.0.2",
         "php-http/client-common": "^1.1",
